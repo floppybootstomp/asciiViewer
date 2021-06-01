@@ -2,6 +2,7 @@
 Simple ASCII Art Viewer to apply color pallets to ascii art in the terminal. Only for Windows at the moment.
 
 --- How To Use ---
+
 Path to ASCII Art: 
 - Specify the path to a file containing your ASCII art, using either the complete path or the path in relation to the location of the application
 
