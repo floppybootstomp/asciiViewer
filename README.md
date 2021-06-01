@@ -24,5 +24,5 @@ Quitting the Application:
 
 Formatting Color Pallets: 
 - Use a new line for every character to be colored.
-- The format is <character> <space> <color code>.
+- The format is &lt;character&gt; &lt;space&gt; &lt;color code&gt;.
 - All characters without a color code will be assigned colors automatically. 
